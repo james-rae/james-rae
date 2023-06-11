@@ -1,4 +1,6 @@
-GIS developer and long-winded pontificator with Environment and Climate Change Canada. Technical lead for [RAMP](https://github.com/ramp4-pcar4/ramp4-pcar4)
+- GIS developer and long-winded pontificator with Environment and Climate Change Canada.
+- Technical lead for the [Reusable Accessible Mapping Platform](https://github.com/ramp4-pcar4/ramp4-pcar4).
+- Executive knucklehead at [Grousewood Games](https://github.com/grousewood-games).
 
 <img src="https://github-readme-stats.vercel.app/api?username=james-rae&show_icons=true&count_private=false&theme=algolia&include_all_commits=true" alt="Contributions" />
  
