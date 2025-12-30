@@ -6,7 +6,7 @@
   - dabble in: [SolidJS](https://www.solidjs.com/) | [Vue](https://vuejs.org/) | [Vite](https://vite.dev/) | [CSS](https://www.w3.org/Style/CSS/Overview.en.html) | [Three.js](https://threejs.org/)
   - used to use professionally: [Visual Basic 5](https://en.wikipedia.org/wiki/Visual_Basic_(classic)) | [Visual Basic .Net](https://learn.microsoft.com/en-ca/dotnet/visual-basic/) | [SQL Server](https://www.microsoft.com/en-ca/sql-server)
 
-<img src="https://github-readme-stats.vercel.app/api?username=james-rae&show_icons=true&count_private=false&theme=algolia&include_all_commits=true" alt="Contributions" />
+![Stats](./profile/stats.svg)
  
 ![](badges/penny.png) ![](badges/simba.png) ![](badges/montypython.png) ![](badges/prs.png) ![](badges/darktower.png) ![](badges/lions.png) ![](badges/bogner.png) ![](badges/sprites.png) ![](badges/mad.png) ![](badges/nealasher.png) ![](badges/thehip.png) ![](badges/doom.png) ![](badges/slash.png) ![](badges/clutch.png) ![](badges/mattmays.png) ![](badges/coc.png) ![](badges/greenlung.png) ![](badges/aic.png) ![](badges/nevermore.png) ![](badges/lizzy.png)
 
